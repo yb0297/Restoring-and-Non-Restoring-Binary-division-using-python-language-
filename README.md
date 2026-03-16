@@ -54,13 +54,21 @@ Restoring division works by repeatedly **subtracting the divisor from the remain
 ### Algorithm Flow
 
 Dividend
+
 ↓
+
 Shift & Subtract Divisor
+
 ↓
+
 Check Remainder
+
 ↓
+
 Restore if Negative
+
 ↓
+
 Generate Quotient Bit
 
 ### Example Flowchart
